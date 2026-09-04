@@ -168,4 +168,5 @@ Haz un PR. El pecado siempre acepta más socios.
 ---
 
 *Hecho con demasiado cariño (y minimización de resaca) por*
-**[Ulises](https://github.com/Ulises-Gtz-Mtz)** 🎸
+**[Ulises](https://github.com/Ulises-Gtz-Mtz)** 👾
+**[Fasutino](https://github.com/Faustino666)** 🎸
